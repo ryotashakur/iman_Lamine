@@ -1,6 +1,9 @@
 package org.dador;
 
 import java.nio.charset.StandardCharsets;
+/* test commi
+
+ */
 
 /**
  * Collection of tools to manipulate String represented as Hex characters
